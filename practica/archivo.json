@@ -1,0 +1,51 @@
+
+   [ 
+     {
+      "articulo": "camisa transparente",
+      "precio": 398,
+      "id": 9,
+      "url": "./imagenes/imagens/img_9.png"
+    },
+    {
+      "articulo": "croppet stripes",
+      "precio": 120,
+      "id": 8,
+      "url": "./imagenes/imagens/img_8.png"
+    },
+    {
+      "articulo": "casaco pelos",
+      "precio": 398,
+      "id": 7,
+      "url": "./imagenes/imagens/img_7.png"
+    },
+    {
+      "articulo": "body leopardo",
+      "precio": 129.9,
+      "id": 6,
+      "url": "./imagenes/imagens/img_6.png"
+    },
+    {
+      "articulo": "cardigan off white",
+      "precio": 99.9,
+      "id": 5,
+      "url": "./imagenes/imagens/img_5.png"
+    },
+    {
+      "articulo": "cardigan tigre",
+      "precio": 398,
+      "id": 4,
+      "url": "./imagenes/imagens/img_4.png"
+    },
+    {
+      "articulo": "saia em couro",
+      "precio": 398,
+      "id": 3,
+      "url": "./imagenes/imagens/img_3.png"
+    },
+    {
+      "articulo": "camiseta mezcla",
+      "precio": 28,
+      "id": 2,
+      "url": "./imagenes/imagens/img_2.png"
+    }
+    ]
